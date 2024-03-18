@@ -1,0 +1,27 @@
+<style>
+/* header_all */
+    #root div.block-container.st-emotion-cache-z5fcl4.ea3mdgi5 > div > div > div > div:nth-child(7){
+         position: fixed;
+         top: 2.9em;
+         width: 92%;
+         z-index: 9999;
+         background-color: white;
+    }
+/* 헤더 버튼1 */
+    #root > div:nth-child(1) > div.withScreencast > div > div > div > section.main.st-emotion-cache-uf99v8.ea3mdgi8 > div.block-container.st-emotion-cache-z5fcl4.ea3mdgi5 > div > div > div > div:nth-child(7) > div:nth-child(1) > div > div > div > div > div button{
+        width: 8em;
+        margin-left: 0em;
+    }
+/* 헤더 버튼2 */
+    #root > div:nth-child(1) > div.withScreencast > div > div > div > section.main.st-emotion-cache-uf99v8.ea3mdgi8 > div.block-container.st-emotion-cache-z5fcl4.ea3mdgi5 > div > div > div > div:nth-child(7) > div:nth-child(2) > div > div > div > div > div button{
+        width: 75%;
+        margin-right: 0em;
+        position: absolute;
+        right: 0em;
+    }
+/* 헤더 버튼3 */    
+    #root > div:nth-child(1) > div.withScreencast > div > div > div > section.main.st-emotion-cache-uf99v8.ea3mdgi8 > div.block-container.st-emotion-cache-z5fcl4.ea3mdgi5 > div > div > div > div:nth-child(7) > div:nth-child(3) > div > div > div > div > div button{
+        width: 75%;
+        margin-right: 0em;
+    }
+</style>

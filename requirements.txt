@@ -1,0 +1,16 @@
+category_encoders
+folium
+imbalanced-learn
+joblib
+numpy
+matplotlib
+pandas
+plotly
+requests
+seaborn
+shap
+scikit-learn
+streamlit
+streamlit-extras
+streamlit-folium
+streamlit-shap

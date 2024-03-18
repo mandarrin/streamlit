@@ -1,0 +1,24 @@
+<style>
+
+/* 메인 좌측 버튼 */
+    #root > div:nth-child(1) > div.withScreencast > div > div > div > section.main.st-emotion-cache-uf99v8.ea3mdgi8 > div.block-container.st-emotion-cache-z5fcl4.ea3mdgi5 > div > div > div > div:nth-child(10) > div:nth-child(1) > div > div > div > div > div > button{
+        width: 20em;
+        height: 20em;
+        margin-right: 10px;
+    }
+/* 메인 우측 버튼 */    
+    #root > div:nth-child(1) > div.withScreencast > div > div > div > section.main.st-emotion-cache-uf99v8.ea3mdgi8 > div.block-container.st-emotion-cache-z5fcl4.ea3mdgi5 > div > div > div > div:nth-child(10) > div:nth-child(2) > div > div > div > div > div > button{
+        width: 20em;
+        height: 20em;
+        margin-left: 10px;
+    }
+
+
+/* 메인 버튼 글자 공통 */
+    #root > div:nth-child(1) > div.withScreencast > div > div > div > section.main.st-emotion-cache-uf99v8.ea3mdgi8 > div.block-container.st-emotion-cache-z5fcl4.ea3mdgi5 > div > div > div > div:nth-child(10) > div button p{
+        font-size: 1.4rem;
+        font-weight: bold;
+    }
+
+    
+</style>

@@ -1,0 +1,17 @@
+<style>
+    .stButton>button {
+        display: block;
+        margin: auto;
+        border: None;
+        width: 6em;
+        box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
+    }
+    .stButton>button:hover {
+        background-color: whiteblue !important;
+        color: red !important;
+        border: 0.2px solid #E5E5E5 !important;
+        box-shadow: None !important;
+        font-weight: bold;
+        transition: box-shadow 0.3s ease;
+    }
+</style>
